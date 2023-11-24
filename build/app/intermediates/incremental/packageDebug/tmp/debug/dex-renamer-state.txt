@@ -1,0 +1,4 @@
+#Fri Nov 24 18:13:40 BDT 2023
+base.0=E\:\\Project\\Flutter_Project\\doctors_consultancy\\doctors_consulatcy\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
